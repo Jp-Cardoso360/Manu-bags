@@ -19,8 +19,8 @@
 }
 .whatssap{
   position: fixed;
-  bottom: 5px;
-  right: 5px;
+  bottom: 15px;
+  right: 15px;
   opacity: 90%;
   z-index: 10;
 }
