@@ -16,7 +16,7 @@
   position: fixed;
   width:100%;
   z-index: 10;
-  padding-top: 7px;
+
 }
 .whatssap{
   position: fixed;
@@ -27,7 +27,7 @@
 }
 .info{
   width: 100%;
-  padding: 5px;
+  padding: 15px;
   background-color: brown;
   letter-spacing: 2px;
   display: flex;
