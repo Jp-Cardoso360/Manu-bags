@@ -147,6 +147,7 @@
   height: 450px;
   background-image: url(https://img.freepik.com/fotos-gratis/sacos-de-wome-close-up_1303-13440.jpg?w=740&t=st=1704381645~exp=1704382245~hmac=24322abee6eecbcf5b35648d99ed1ae950878aad378d07dc7186ca15b1ee15a6);
   background-attachment: fixed;
+    background-repeat: no-repeat;
   border-bottom-left-radius: 2px;
   background-position: left top;
 }
